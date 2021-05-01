@@ -35,3 +35,33 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ![Screenshot_20210427_235112_com smile gifmaker](https://user-images.githubusercontent.com/82256583/116734640-17ce3f00-aa20-11eb-8c80-fdbef4478d4c.jpg)
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+ <meta charset="utf-8">
+
+ <title>HTML点击图片跳转页面示例</title>
+
+ <style>
+
+img{width: 80px  ;
+
+height: 80px
+
+;}
+
+ </style>
+
+</head>
+
+<body>
+
+<a href="http://www.php.cn"><img src="/test/img/2.png"> </a>
+
+</body>
+
+</html>
