@@ -34,8 +34,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-![Screenshot_20210427_235112_com smile gifmaker](https://user-images.githubusercontent.com/82256583/116734640-17ce3f00-aa20-11eb-8c80-fdbef4478d4c.jpg)
-
 <!DOCTYPE html>
 
 <html>
@@ -60,7 +58,7 @@ height: 80px
 
 <body>
 
-<a href="http://www.php.cn"><img src="/test/img/2.png"> </a>
+<a href="http://www.php.cn"><img src=![Screenshot_20210427_235112_com smile gifmaker](https://user-images.githubusercontent.com/82256583/116734640-17ce3f00-aa20-11eb-8c80-fdbef4478d4c.jpg)> </a>
 
 </body>
 
