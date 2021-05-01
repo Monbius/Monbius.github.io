@@ -58,7 +58,7 @@ height: 80px
 
 <body>
 
-<a href="http://www.php.cn"><img src=![gaitubao_Fu-ds3pmeg_Be484ehRR-6vP7z-b](![Screenshot_20210427_235112_com smile gifmaker](https://user-images.githubusercontent.com/82256583/116734640-17ce3f00-aa20-11eb-8c80-fdbef4478d4c.jpg)> </a>
+<a href="http://www.php.cn"><img src=!> </a>
 
 </body>
 
