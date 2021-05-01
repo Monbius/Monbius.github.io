@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  <meta charset="utf-8">
 
- <title>HTML点击图片跳转页面示例</title>
+ <title>HTML</title>
 
  <style>
 
