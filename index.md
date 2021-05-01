@@ -10,10 +10,6 @@
 
 height: 80px
 
-;}
-
- </style>
-
 </head>
 
 <body>
