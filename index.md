@@ -8,8 +8,6 @@
 
  <meta charset="utf-8">
 
-height: 80px
-
 </head>
 
 <body>
