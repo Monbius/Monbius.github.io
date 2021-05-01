@@ -42,15 +42,25 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  <meta charset="utf-8">
 
+ <title>HTML点击图片跳转页面示例</title>
+
+ <style>
+
+img{width: 80px  ;
+
+height: 80px
+
+;}
+
+ </style>
+
 </head>
 
 <body>
 
-<a href="https://Monbius.github.io">![gaitubao_FtrJ-ED2d3KgJW1KRzQ8QeaLLtpj](https://user-images.githubusercontent.com/82256583/116784719-5d464700-aac8-11eb-9ffd-32bf0cc3ca08.jpg)
-> </a>
+<a href="http://www.php.cn"><img src=![gaitubao_FtrJ-ED2d3KgJW1KRzQ8QeaLLtpj](https://user-images.githubusercontent.com/82256583/116786993-3c83ee80-aad4-11eb-8e5b-bf35099d0099.jpg)
+"> </a>
+
 </body>
 
 </html>
-
-
-
