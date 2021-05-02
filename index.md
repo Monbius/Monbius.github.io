@@ -9,33 +9,5 @@
 ③**闪照屏蔽**，闪照可直接查看、保存到相册
 
 ④
+[功能，点击查看](https://user-images.githubusercontent.com/82256583/116804101-c7093400-ab4e-11eb-8026-84aa2a4dd3df.jpg)
 
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
- <meta charset="utf-8">
-
- <title>HTML点击图片跳转页面示例</title>
-
- <style>
-
-img{width: 80px  ;
-
-height: 80px
-
-;}
-
- </style>
-
-</head>
-
-<body>
-
-<a href="http://www.php.cn"><img src="/test/img/2.png"> </a>
-
-</body>
-
-</html>
