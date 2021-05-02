@@ -12,3 +12,5 @@
 ![6627be9c3cdab290](https://user-images.githubusercontent.com/82256583/116811811-e7041c00-ab7d-11eb-8a78-8bae7e480d32.gif)
 
 ![mmexport1619956365675](https://user-images.githubusercontent.com/82256583/116812195-08660780-ab80-11eb-954d-15b160524bdc.jpg)
+
+![笑死了](http://post.mp.qq.com/kan/video/101-568607a49f6084bk-e32405c2a5p.html?_wv=2281701505&sig=8d9216310ade97b086e22f05cd1dbdc3&time=1618628337&iid=Mjc3MDUyNzc2Mg==)
