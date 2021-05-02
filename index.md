@@ -7,30 +7,59 @@
 
 
 
-<html>
+<
 
-<head>
+        audio 
 
- <meta charset="utf-8">
+        autoplay
 
- <title>HTML点击图片跳转页面示例</title>
+        =
 
- <style>
+        "autoplay" 
 
-img{width: 80px  ;
+        controls
 
-height: 80px
+        =
 
-;}
+        "controls"
 
- </style>
+        loop
 
-</head>
+        =
 
-<body>
+        "loop" 
 
-<a href="http://www.php.cn"><img src="![mmexport1619956365675](https://user-images.githubusercontent.com/82256583/116814020-4287d700-ab89-11eb-9925-0c83921ca1ed.jpg)"> </a>
+        preload
 
-</body>
+        =
 
-</html>
+        "auto"
+
+       
+
+                    
+
+        src
+
+        =
+
+        "
+https://user-images.githubusercontent.com/82256583/116816464-9cda6500-ab94-11eb-89f0-3df46b11e712.mov
+
+"
+
+        >
+
+       
+
+              
+
+        你的浏览器不支持audio标签
+
+       
+
+        </
+
+        audio
+
+        >
