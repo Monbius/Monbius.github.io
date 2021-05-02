@@ -7,16 +7,6 @@
 
 
 
-</script> 
-
-<textarea cols="60" name="content" rows="2" id="content">45 vy:/越秋M沃秀晟渲4衡橄璋醵</textarea> 
-
-<input type=button value="复制" onclick="jsCopy()"
-
-
-
-
-
 <html>
 
 <head>
