@@ -12,18 +12,26 @@
 
 <head>
 
-<meta charset="utf-8">
+ <meta charset="utf-8">
+
+ <title>HTML点击图片跳转页面示例</title>
+
+ <style>
+
+img{width: 80px  ;
+
+height: 80px
+
+;}
+
+ </style>
 
 </head>
 
 <body>
 
-<a href="http://www.php.cn">![gaitubao_FtrJ-ED2d3KgJW1KRzQ8QeaLLtpj](https://user-images.githubusercontent.com/82256583/116784719-5d464700-aac8-11eb-9ffd-32bf0cc3ca08.jpg)
-
-> </a>
+<a href="http://www.php.cn"><img src="/test/img/2.png"> </a>
 
 </body>
 
 </html>
-
-
