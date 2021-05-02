@@ -10,7 +10,6 @@
 
 ④
 
-```
 <!DOCTYPE html>
 
 <html>
@@ -40,4 +39,3 @@ height: 80px
 </body>
 
 </html>
-```
