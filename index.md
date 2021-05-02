@@ -14,5 +14,5 @@
 
 
 
-Uploading 滴滴.mov…
 
+<EMBED src=Uploading 滴滴.mov… width=300 height=45 type=audio/mpeg loop="-1" autostart="false" volume="0"></EMBED>
