@@ -10,20 +10,6 @@
 
 ④
 
-![<!DOCTYPE html>
-<html>
-<head>
- <meta charset="utf-8">
- <title>HTML点击图片跳转页面示例</title>
- <style>
-img{width: 80px  ;
-height: 80px
-;}
- </style>
-</head>
-<body>
-<a href="http://www.php.cn"><img src="![gaitubao_Fvw3jfi5UNcPCAkNntWVx-LdQxqC](https://user-images.githubusercontent.com/82256583/116804164-37b05080-ab4f-11eb-899f-6a196d96e446.jpg)
-"> </a>
-</body>
-</html>]
+![点击查看](https://user-images.githubusercontent.com/82256583/116804633-d4282200-ab52-11eb-8734-98f060254bc2.jpeg)
+
 
