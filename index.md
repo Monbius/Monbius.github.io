@@ -3,7 +3,7 @@
 
 
 **功能**
-                         ![-78e15f6277268a68](https://user-images.githubusercontent.com/82256583/116858179-87b31400-ac30-11eb-86d6-4d188c20c4fd.gif)
+![-78e15f6277268a68](https://user-images.githubusercontent.com/82256583/116858179-87b31400-ac30-11eb-86d6-4d188c20c4fd.gif)
 
 
 
