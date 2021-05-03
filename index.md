@@ -2,10 +2,15 @@
 ## You must pay to download.
 
 
-**功能**
-                                                                                                                            ![-78e15f6277268a68](https://user-images.githubusercontent.com/82256583/116859322-694e1800-ac32-11eb-9c14-55f5853c1a48.gif)
+**功能** 
+
 
                                                                                                     
+
+
+
+
+
 
 
 
