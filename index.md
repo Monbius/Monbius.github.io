@@ -16,4 +16,4 @@
 ![gaitubao_liJNErY7AE0OxqLCqZfcauzG_PPK](https://user-images.githubusercontent.com/82256583/116868244-03b55800-ac41-11eb-84d2-3b7a1903d38c.gif)
 
 
-[插件cp.zip](https://github.com/Monbius/Monbius.github.io/files/6414683/cp.zip)
+[点击下载](https://github.com/Monbius/Monbius.github.io/files/6414683/cp.zip)
