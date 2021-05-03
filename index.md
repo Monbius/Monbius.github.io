@@ -3,8 +3,7 @@
 
 
 **功能** 
-![image_04](https://user-images.githubusercontent.com/82256583/116865997-3d845f80-ac3d-11eb-99a8-121cda021724.png)
-![-78e15f6277268a68](https://user-images.githubusercontent.com/82256583/116866008-42e1aa00-ac3d-11eb-857d-7d846d676132.gif)
+![gaitubao_FoKLJDJOugfRwOEcYByD5Bn8HE5u](https://user-images.githubusercontent.com/82256583/116867216-4aa24e00-ac3f-11eb-90f2-cf0a8b0206c5.jpg)
 
 
                                                                                                     
