@@ -14,7 +14,7 @@
 
 **付款备注QQ号，请确保账号正确**
 
-![IMG_20210504_171128](https://user-images.githubusercontent.com/82256583/116982787-d4afec80-acfb-11eb-86ab-71b8a3007f67.jpg)
+![IMG_20210504_171128_mh1620127666596](https://user-images.githubusercontent.com/82256583/116997142-ff577080-ad0e-11eb-8b24-1dcca307ab66.jpg)
 
 **下载链接直接发送到QQ，最快一小时内送达，注意查收**
 
