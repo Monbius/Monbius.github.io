@@ -12,6 +12,10 @@
 
 ![IMG_20210504_143606_gaitubao_183x200](https://user-images.githubusercontent.com/82256583/116981852-a8e03700-acfa-11eb-843d-8cd589f896c5.jpg)支付宝扫码![img zcool-2_gaitubao_83x62](https://user-images.githubusercontent.com/82256583/116975222-decced80-acf1-11eb-911a-2643abc075a0.gif)
 
-**付款必须备注QQ号**
+**付款必须备注QQ号，请确保账号正确**
 
 ![IMG_20210504_171128](https://user-images.githubusercontent.com/82256583/116982787-d4afec80-acfb-11eb-86ab-71b8a3007f67.jpg)
+
+**下载链接直接发送到QQ，一小时左右送达，注意查收**
+
+![IMG_20210504_172737](https://user-images.githubusercontent.com/82256583/116984925-66b8f480-acfe-11eb-9b2d-94ce5c4cfa9d.png)
