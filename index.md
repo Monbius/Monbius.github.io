@@ -10,4 +10,3 @@
 
 ![gaitubao_FpVhTvzUPfq4PyJCy4-hDrhhLrfr](https://user-images.githubusercontent.com/82256583/116968939-06b75380-ace8-11eb-9b97-7bf52158b076.jpg)微信扫码
 ![142d72795e839bd9](https://user-images.githubusercontent.com/82256583/116973820-adebb900-acef-11eb-9531-fa9e8b054674.gif)
-![app_assets_image_paymentanimate](https://user-images.githubusercontent.com/82256583/116974587-ef309880-acf0-11eb-8d32-f3969d6d5be7.gif)
