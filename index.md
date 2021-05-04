@@ -5,7 +5,7 @@
 
 ![Screenshot_20210503_142522_mh1620023653772](https://user-images.githubusercontent.com/82256583/116847223-b0311300-ac1c-11eb-9766-fb85b552e768.jpg)
 
-![gaitubao_Fhrnt0VprFodc9sBVIZidnbIC_E5](https://user-images.githubusercontent.com/82256583/116973703-7c72ed80-acef-11eb-8dfe-7d6d98f39dc1.jpg)支付宝扫码
+![IMG_20210504_143606_gaitubao_183x200](https://user-images.githubusercontent.com/82256583/116976001-1a1bec00-acf3-11eb-8d9f-96851114d461.jpg)支付宝扫码
 
 长按保存到手机
 
