@@ -5,8 +5,9 @@
 
 ![Screenshot_20210503_142522_mh1620023653772](https://user-images.githubusercontent.com/82256583/116847223-b0311300-ac1c-11eb-9766-fb85b552e768.jpg)
 
-![gaitubao_Fhrnt0VprFodc9sBVIZidnbIC_E5](https://user-images.githubusercontent.com/82256583/116973703-7c72ed80-acef-11eb-8dfe-7d6d98f39dc1.jpg)
-长按保存，           支付宝扫码
+![gaitubao_Fhrnt0VprFodc9sBVIZidnbIC_E5](https://user-images.githubusercontent.com/82256583/116973703-7c72ed80-acef-11eb-8dfe-7d6d98f39dc1.jpg)支付宝扫码
 
-![gaitubao_FpVhTvzUPfq4PyJCy4-hDrhhLrfr](https://user-images.githubusercontent.com/82256583/116968939-06b75380-ace8-11eb-9b97-7bf52158b076.jpg)微信扫码
+长按保存到手机
+
+![gaitubao_FpVhTvzUPfq4PyJCy4-hDrhhLrfr](https://user-images.githubusercontent.com/82256583/116968939-06b75380-ace8-11eb-9b97-7bf52158b076.jpg) 微信扫码
 ![img zcool-2_gaitubao_83x62](https://user-images.githubusercontent.com/82256583/116975222-decced80-acf1-11eb-911a-2643abc075a0.gif)
